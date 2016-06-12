@@ -1,0 +1,30 @@
+---
+# English language file
+# (c) 2016 All right reserved, Plugswork.
+# Thanks to @deotern, @UltimateMcraft and @remotevase for the English Translation
+
+version: 1.2
+lang: fr
+main:
+  selectConsoleLang: "S'il vous plaît, sélectionner le language de la console !"
+  enterServerID: "S'il vous plaît entrer l'ID du Serveur."
+  enterSecretKey: "S'il vous plaît rentrer la clé du serveur !"
+  pwTerms: "En utilisant ce plugin, vous acceptez les Plugswork Terms."
+  pwTermsAgree: "Vous avez besoin de voir les Plugswork Terms? [y/n]"
+  pwTermsError: "Vous avez besoin d'acceptez les Plugswork Terms pour utiliser Plugswork's Services et ses Produits."
+  invalidProvider: "Le provider (fournisseur) que vous avez selectionné dans le fichier "config.yml" est invalide !"
+  donateNote: "Faites nous des donations (plugswork.com/donate) pour nous aider!"
+  runAsPlayer: "S'il vous plaît, executez cette commande avec sur un joueur !"
+  runAsConsole: "S'il vous plaît, utilisez cette commande avec la console de votre serveur !"
+  reloading: "Relancement des paramètres..."
+  reloadSucessful: "Les paramètres ont bien été relancés !"
+  updateAvailable: "Une nouvelle version de PlugWorks a été réalisée ! Jetez un coup d'œuil sur votre page de téléchargement sur votre console (Panel PlugWorks) !"
+api:
+  openError: "La clé d'API présente une Erreur occasionnel!\n ERREUR: %0%"
+  emptyDataError: "Aucune clé d'API ou Serveur ID rempli !"
+  serverIDError: "Invalide clé de serveur ID, s'il vous plaît regardez si vous avez correctement rempli l'ID du Serveur !"
+  sKeyError: "La clé Secrète est invalide ! Regardez si vous l'avez rempli correctement."
+  validationError: "Nous ne parvenons pas a reconnaître ce serveur, s'il vous plaît regardez si vous avez bien rempli l'IP, le port, etc... dans le meme format que dans le panel de Contrôle."
+cmd:
+  runAsPlayer: "S'il vous plaît, executez cette commmande sur un joueur!"
+...
